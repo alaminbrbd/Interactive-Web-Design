@@ -1,3 +1,3 @@
 # Interactive-Web-Design
 hover effect, text shadow, text effect color, image overlay
-preview:
+preview: https://alaminbrbd.github.io/Interactive-Web-Design/
